@@ -6,18 +6,18 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "32096196",
-      "name": "保险柜",
-      "font_class": "baoxiangui",
-      "unicode": "e6af",
-      "unicode_decimal": 59055
+      "icon_id": "30178389",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "100da",
+      "unicode_decimal": 65754
     },
     {
-      "icon_id": "32096197",
-      "name": "编辑日历",
-      "font_class": "bianjirili",
-      "unicode": "e6b0",
-      "unicode_decimal": 59056
+      "icon_id": "30178390",
+      "name": "笔记",
+      "font_class": "biji",
+      "unicode": "100db",
+      "unicode_decimal": 65755
     }
   ]
 }
