@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "32096196",
+      "name": "保险柜",
+      "font_class": "baoxiangui",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "32096197",
+      "name": "编辑日历",
+      "font_class": "bianjirili",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    }
+  ]
+}
